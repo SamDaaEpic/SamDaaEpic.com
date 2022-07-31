@@ -15,7 +15,7 @@ toc:
 
 ## The Beginning
 
-The first time I was Introduced to Linux was by a Android App called **Termux**. Back then i didn't have acess to
+When i was like 11 the first time I was Introduced to Linux was by a Android App called **Termux**. Back then i didn't have acess to any Computer or Laptop and since i didn't have any PC, i was those types kids who wanted to play good graphics games like GTA V and stuff on their Phones. So as any wise kid would do, i watched thousands of fake tutorials on how to run **Windows 10** on my phone so i could run GTA V, and then i stumbled upon a video which showed how to run a lighter version of Windows 10 using qemu in termux. At that time i didn't knew anything about qemu neither termux or linux, so i watched the tutorial and copy pasted some commands, at the end I got it to work but only a sluggish version Windows 10 and not even able to open a chrome tab. But all I know is __That Was A Beginning To Something Big__.
 
 ## Blockquotes
 
