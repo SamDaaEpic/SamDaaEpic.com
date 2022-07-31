@@ -24,6 +24,10 @@ __That Was A Beginning To Something Big__.
 
 Now, Since I got a bit familiar with linux. Now instead of running Linux on Android Phones and Stuff using a Emulator, I wanted to run it Natively. And After some Deep Research I found out that you could run Linux Natively on Android Tv Boxes by booting them from a SD-Card. Since I already had a cheep little Android Tv Box in my home I Tinkered around with it As Much As I could. And finally after around 3 or 4 Weeks of tinkering I got it to work. I flashed Armbian from balbes150 and it worked. And you probably know what happened after that?? Dont you??? I tinkerd more and more and digged deeper into the rabbit hole. I even created my own image files to run Kali Linux And Arch Linux On Android Tv Boxes (I Uploaded them on some Cloud Storage Service But i Couldnt remeber the website neither the password, Since it was too long ago). That Basically how i got a bit deeper into the Rabbit Hole Of Linux.
 
+## Creating My First Linux Server
+
+Since i got Linux running on my Android Tv Box Natively. I thought it would be good to give it some puprose to exist. That was the time when i learned Docker And got into the Server Realm of Linux. I learned docker and created a HomeLab Using my Android Tv Box. It had Pihole, Jellyfin, qBittorent, etc. And By doing that I also learned Alot about linux. And now literally everyone in my House Uses Jellyfin Haha....
+
 ## Blockquotes
 
 The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a `footer` or `cite` element, and optionally with in-line changes such as annotations and abbreviations.
