@@ -30,5 +30,5 @@ Since i got Linux running on my Android Tv Box Natively. I thought it would be g
 
 ## Getting My First Computer
 
-I have already Learned a lot about linux even without a computer just by using a Android Tv Box And a Phone. When i was around 13-14 I got my first laptop which was a old second hand Macbook Pro 2008 Model. And as you probably already guessed I installed Linux on it. And As Time Went on i learned more and more about and linux, i started out with manjaro then switched to Arch Linux and you cant even imagine how much i Distro Hopped and finally settled on Arch Linux. I learned a lot about linux and thats from where i got into Programming too. Thats basically Entire Linux Journey 
+I have already Learned a lot about linux even without a computer just by using a Android Tv Box And a Phone. When i was around 13-14 I got my first laptop which was a old second hand Macbook Pro 2008 Model. And as you probably already guessed, I installed Linux on it. And As Time Went on i learned more and more about and linux, i started out with manjaro then switched to Arch Linux and you cant even imagine how much i Distro Hopped and finally settled on Arch Linux. I learned a lot about linux and thats from where i got into Programming too. Thats basically Entire Linux Journey 
 
