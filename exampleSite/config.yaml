@@ -242,7 +242,7 @@ params:
 
   # Achievements To Be Achieved
   achievements:
-    enable: true
+    enable: false
     items:
       - title: Become A Programmer
         content: I want to become a C and Java Backend developer.
