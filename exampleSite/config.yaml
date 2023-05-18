@@ -1,4 +1,4 @@
-baseURL: "https://samdaaepic.netlify.app"
+tbaseURL: "https://samdaaepic.netlify.app"
 languageCode: "en-us"
 title: "About Sam"
 theme: hugo-profile
