@@ -105,6 +105,8 @@ params:
       url: "#"
     socialLinks:
       fontAwesomeIcons:
+        - icon: fab fa-youtube
+          url: "https://youtube.com/@SamDaaEpic"
         - icon: fab fa-github
           url: "https://github.com/SamDaaEpic"
         - icon: fab fa-reddit
